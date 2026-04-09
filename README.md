@@ -1,6 +1,6 @@
 ## Hi, I'm Jawad Domato
 - 🖥️ I am a full-stack web developer sepcialized on Typescript, PSQL, Express NodeJS, and React.
-- 📚 I have been working on [NovelWebsite](https://github.com/ShyPenguin/NovelWebsite.git) and continously developing it despite its core features are finished.
+- 📚 I have been working on [NovelWebsite](https://github.com/ShyPenguin/NovelWebsite.git) and continously developing it despite its core features being finished.
 <!--
 **ShyPenguin/ShyPenguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
